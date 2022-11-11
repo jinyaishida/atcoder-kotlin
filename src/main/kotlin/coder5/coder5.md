@@ -56,7 +56,7 @@ a_1, ..., a_n を入力された順に改行区切りで出力してください
 ---
 
     解答例
-    fun main() {
+    fun main(args: Array<String>) {
     val count = readLine()!!.toInt()
 
         for (i in 1 .. count) {
