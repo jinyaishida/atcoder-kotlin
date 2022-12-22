@@ -1,4 +1,4 @@
-### 問題33
+### 問題35
 
 Max min
 Learn about collection aggregate operations.
